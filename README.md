@@ -77,6 +77,10 @@ This project demonstrates the ability to:
 * Transform raw data into actionable insights.
 * Support business decisions using data analytics.
 
+  📸 Dashboard Snapshot
+
+![Retail Sales Dashboard](dashboard.png)
+
 
  👩‍💻 Author
 
