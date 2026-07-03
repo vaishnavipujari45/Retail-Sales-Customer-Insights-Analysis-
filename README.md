@@ -1,95 +1,91 @@
- 🛒 Retail Sales & Customer Insights Analysis
+🛒 Retail Sales & Customer Insights Analysis
+📌 Project Overview
 
- 📌 Project Overview
+This project analyzes retail sales data to uncover sales trends, customer purchasing behavior, payment preferences, and product performance using SQL and Power BI.
 
-This project analyzes retail sales data to identify sales trends, customer purchasing behavior, and product performance using Power BI.
+The objective is to transform raw retail transaction data into actionable business insights that support data-driven decision-making and business strategy.
 
-The objective of this analysis is to transform raw retail transaction data into actionable business insights that can support data-driven decision-making.
+🎯 Objectives
+Analyze sales trends and revenue performance.
+Identify top-performing product lines and categories.
+Understand customer purchasing behavior and payment preferences.
+Evaluate sales performance across different cities and customer segments.
+Build interactive dashboards and analytical reports for business decision-making.
+🛠️ Tools & Technologies Used
+MySQL
+Power BI
+Microsoft Excel
+CSV Dataset
+SQL Queries
+Data Cleaning & Transformation
+Data Visualization
+Business Analysis
+📊 Key Analyses Performed
+1. Sales Performance Analysis
+Calculated total sales and revenue trends.
+Identified periods with high and low sales.
+2. Product Performance Analysis
+Identified top-performing product lines.
+Evaluated product category revenue contribution.
+3. Customer Insights Analysis
+Analyzed customer purchasing behavior.
+Studied payment method preferences.
+4. SQL-Based Analysis
+Performed data analysis using:
+Aggregate Functions (SUM, COUNT, AVG)
+GROUP BY
+ORDER BY
+Filtering and Sorting Techniques
+5. Dashboard Creation
+Developed an interactive Power BI dashboard.
+Created KPIs and visual reports for business decision-making.
+📈 Key Insights
+Generated total sales revenue of 106.20K.
+Identified the highest revenue-generating product lines.
+Analyzed customer payment preferences and transaction patterns.
+Compared sales performance across different cities.
+Identified business opportunities through sales trends and customer insights.
+📂 SQL Queries Included
 
+The repository contains SQL scripts for:
 
- 🎯 Objectives
+Total Sales Analysis
+Product Line Performance Analysis
+Payment Method Distribution Analysis
+City-wise Sales Analysis
+Monthly Sales Trend Analysis
 
-* Analyze sales trends and revenue performance.
-* Identify top-performing products and categories.
-* Understand customer purchasing patterns.
-* Evaluate sales performance across different segments.
-* Create interactive dashboards for business reporting.
+📄 File: Retail_Sales_Analysis.sql
 
-
- 🛠️ Tools & Technologies Used
-
-* Power BI
-* Microsoft Excel
-* CSV Dataset
-* Data Cleaning & Transformation
-* Data Visualization
-* Business Analysis
-
-
- 📊 Key Analyses Performed
-
- 1. Sales Performance Analysis
-
-* Analyzed total sales and revenue trends.
-* Identified periods with high and low sales.
-
- 2. Product Performance Analysis
-
-* Identified best-selling and low-performing products.
-* Evaluated product category performance.
-
- 3. Customer Insights Analysis
-
-* Studied customer purchasing behavior.
-* Identified valuable customer segments.
-
- 4. Dashboard Creation
-
-* Developed an interactive Power BI dashboard.
-* Created KPIs and visual reports for decision-making.
-
-
- 📈 Key Insights
-
-* Identified products contributing the highest revenue.
-* Discovered customer purchasing trends and preferences.
-* Highlighted key sales patterns and business opportunities.
-* Generated insights to support strategic business decisions.
-
-
- 💡 Skills Demonstrated
-
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Dashboard Development
-* Business Insight Generation
-* Power BI Reporting
-
-
- 🚀 Project Outcome
+💡 Skills Demonstrated
+SQL
+Data Cleaning
+Data Transformation
+Exploratory Data Analysis (EDA)
+Data Visualization
+Dashboard Development
+Business Insight Generation
+Power BI Reporting
+Business Analytics
+🚀 Project Outcome
 
 This project demonstrates the ability to:
 
-* Analyze business data and identify trends.
-* Build interactive dashboards using Power BI.
-* Transform raw data into actionable insights.
-* Support business decisions using data analytics.
+Analyze business data using SQL and Power BI.
+Build interactive dashboards and analytical reports.
+Transform raw data into actionable insights.
+Support business decisions using data analytics techniques.
 
-  📸 Dashboard Snapshot
-
+📸 Dashboard Snapshot
 ![Retail Sales Dashboard](dashboard.png)
 
-
- 👩‍💻 Author
+👩‍💻 Author
 
 Vaishnavi Basavaraj Pujari
-
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights and business decisions.
 
 📧 Email: vaishnavipujari4444@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-pujari-802783256
 
-⭐ Feel free to explore the repository and connect with me on LinkedIn.
+⭐ Feel free to explore the repository and connect with me on LinkedIn!
